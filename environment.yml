@@ -1,0 +1,16 @@
+name: ffd_minxss
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - pip
+  - numpy
+  - scipy
+  - astropy
+  - matplotlib
+  - seaborn
+  - jupyter
+
+prefix: /Users/masonjp2/anaconda3
+
